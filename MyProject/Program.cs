@@ -15,6 +15,14 @@ namespace Problem
                 Now = DateTime.UtcNow
             };
 
+            Student user2 = new Student()
+            {
+                Id = 1,
+                FirstName = "John",
+                LastName = "Stephan",
+                Age = 24,
+                Now = DateTime.UtcNow
+            };
 
             
 
