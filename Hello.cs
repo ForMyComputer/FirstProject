@@ -16,6 +16,9 @@ namespace Problem
                 test.ShowSkills();
             }
         }
+
+        Console.WriteLine("Hello World!");
+        Console.WriteLine("The University");
     }
     public interface IAnimal
     {
