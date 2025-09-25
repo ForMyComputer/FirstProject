@@ -43,7 +43,7 @@ namespace Problem
         }
         public void Voice()
         {
-            Console.WriteLine("Dog is running..");
+            Console.WriteLine("Hau!!!");
         }
     }
 }
