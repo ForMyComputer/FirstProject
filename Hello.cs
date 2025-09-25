@@ -7,6 +7,7 @@ namespace Problem
 {
     public class Hello
     {
-        
+        int a = 2;
+        Console.WriteLine(a);
     }
 }
